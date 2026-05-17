@@ -1,4 +1,4 @@
-name: Build Oneplus 8 Series (OxygenOS 13 A13) (XTD Kernel)
+name: Build Oneplus 8 Droidspaces
 
 on:
   workflow_call:
